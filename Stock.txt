@@ -1,0 +1,5 @@
+Soda 15 6
+Chips 10 8
+Candy 5 8
+Water 20 7
+Juice 25 4
